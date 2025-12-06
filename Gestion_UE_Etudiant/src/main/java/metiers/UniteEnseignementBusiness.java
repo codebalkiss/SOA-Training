@@ -27,7 +27,7 @@ public class UniteEnseignementBusiness {
         return null;
     }
 
-    public boolean addUniteEnseignement(UniteEnseignement ue) {
+    public boolean addUniteEnseignement(UniteEnseignementBusiness ue) {
         return unitesEnseignement.add(ue);
     }
 
